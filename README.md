@@ -1,4 +1,4 @@
-###Jupyter Day Git Demo
+### Jupyter Day Git Demo
 
 This repo was an experimat in exploring Jupyter by building out a presentation for talking about basic Git purpose and workflow.
 
